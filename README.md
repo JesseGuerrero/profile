@@ -23,6 +23,7 @@
 - **Language Models**: 7/10 - Good architectural understanding
 - **UNet**: 7/10 - Good understanding
 - **Neural Network Training Basics**: 9/10 - Excellent
+- **DDPM**: 7/10 - Good understanding
 
 ### ML Domains
 - **Supervised Learning**: Strong - Primary experience
