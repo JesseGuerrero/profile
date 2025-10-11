@@ -14,7 +14,7 @@
 - **Ollama**: 8/10 - Strong proficiency
 - **HuggingFace**: 6/10 - Moderate (datasets/models)
 - **TensorFlow**: 0/10 - No experience
-- **JAX**: 0/10 - No experience
+- **JAX**: 0/10 - No experience, my lab culture uses pytorch
 
 ### Neural Network Architectures
 - **CNNs**: 7/10 - Strong understanding, practical usage, architecture optimization needed
