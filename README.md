@@ -47,7 +47,7 @@
 ## Mathematical & Theoretical Foundations
 
 ### Core Mathematics
-- **Linear Algebra**: 7/10 - Knows most knowledge needed for ML
+- **Linear Algebra**: 7/10 - Knows most knowledge needed for ML, I am satisfied with my linear algebra understanding.
 - **Statistics**: 4/10 - Basics (std dev, distributions, mean/min/max)
 - **Optimization Theory**: 5/10 - Gradient descent, backprop, optimizers, loss reduction
 - **Information Theory**: 0/10 - No knowledge
