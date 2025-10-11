@@ -41,14 +41,13 @@
 - **Prompt Engineering**: 9/10 - Excellent
 - **Agentic Programming**: 5/10 - Theory understanding, limited implementation
 - **ComfyUI**: 5/10 - Moderate proficiency
-- **Code-First Learning Style**: 9/10 - Learns research by reading GitHub implementations first, then reads papers for formalization patterns
 
 ---
 
 ## Mathematical & Theoretical Foundations
 
 ### Core Mathematics
-- **Linear Algebra**: 0/10 - Never formally studied (self-compensated)
+- **Linear Algebra**: 7/10 - Knows most knowledge needed for ML
 - **Statistics**: 4/10 - Basics (std dev, distributions, mean/min/max)
 - **Optimization Theory**: 5/10 - Gradient descent, backprop, optimizers, loss reduction
 - **Information Theory**: 0/10 - No knowledge
@@ -58,6 +57,7 @@
 - **Paper Reading & Comprehension**: 8/10 - Excellent (except notation/formulas)
 - **IMRAD Paper Structure**: 9/10 - Excellent understanding
 - **Research Diagram Creation**: 4/10 - Moderate skill
+- **Code-First Learning Style**: 9/10 - Learns research by reading GitHub implementations first, then reads papers for formalization patterns
 
 ---
 
