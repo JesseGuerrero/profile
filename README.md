@@ -51,7 +51,7 @@
 - **Statistics**: 4/10 - Basics (std dev, distributions, mean/min/max)
 - **Optimization Theory**: 5/10 - Gradient descent, backprop, optimizers, loss reduction
 - **Information Theory**: 0/10 - No knowledge
-- **ML Notation/Equations**: 4/10 - Struggles with paper formulas
+- **ML Notation/Equations**: 6/10 - Struggles with paper formulas but does understand the math and theory
 
 ### Research Skills
 - **Paper Reading & Comprehension**: 8/10 - Excellent (except notation/formulas)
