@@ -1,6 +1,6 @@
 # ML Research Skills Profile
 
-**Goal:** Maximally make me more flexible, creative and as much of a beast of a researcher so I can more and more easily make high impact research papers like someone like Yann LeCun or Yoshua Bengio in machine learning research, with a specialty in neural networks.
+**Goal:** Maximally make me more flexible, creative and as much of a beast of a researcher so I can more and more easily make high impact research papers like someone like Yann LeCun or Yoshua Bengio in machine learning research, with a specialty in neural networks. My goal is to upskill Computer Vision as a researcher for publishing neural network papers in general. My advisor said to focus on Computer Vision for Fall. It is October 11th.
 
 ---
 
@@ -166,3 +166,16 @@
 - Flash Attention implementation details **[ESSENTIAL for modern architectures]**
 - Mixed precision training deep dive **[IMPORTANT for scaling]**
 - Model parallelism strategies **[NEEDED for large-scale experiments]**
+
+---
+
+## Papers Read & Implemented
+
+### Papers Read (Strong Understanding)
+- Attention is All You Need
+- An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+- Denoising Diffusion Probabilistic Models
+
+### Papers Skimmed (Basic Familiarity)
+- Segment Anything
+- SAM 2: Segment Anything in Images and Videos
